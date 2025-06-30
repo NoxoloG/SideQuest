@@ -115,7 +115,7 @@ Absolutely, Noxolo — here’s a polished, judge-friendly paragraph you can pas
 
 ---
 
-### ✅ Suggested Paragraph for Devpost or README
+### ✅ Note to the judges about my bolt.new URL error they might encounter
 
 > ⚠️ **Note about Bolt.new access:**
 > This project was originally built using [Bolt.new](https://bolt.new), which is a browser-based IDE. However, Bolt does **not share environment variables like `SUPABASE_URL` or `SUPABASE_KEY` across accounts**, which means the app may show an error like **"supabaseUrl is required"** when judges or users try to open it from a different account.
