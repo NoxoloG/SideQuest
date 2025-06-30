@@ -111,6 +111,31 @@ I'm now planning to launch SideQuest publicly and develop additional AI-powered 
 
 > ⚔️ *Level up your life. One side quest at a time.*
 
+Absolutely, Noxolo — here’s a polished, judge-friendly paragraph you can paste into your **Devpost submission**, **README**, or **video description**:
+
+---
+
+### ✅ Suggested Paragraph for Devpost or README
+
+> ⚠️ **Note about Bolt.new access:**
+> This project was originally built using [Bolt.new](https://bolt.new), which is a browser-based IDE. However, Bolt does **not share environment variables like `SUPABASE_URL` or `SUPABASE_KEY` across accounts**, which means the app may show an error like **"supabaseUrl is required"** when judges or users try to open it from a different account.
+>
+> 🛠️ I attempted to hardcode the Supabase credentials inside the Bolt project, but due to Bolt's automatic resets and environment management, the changes get **overwritten after saving**. This caused a major technical limitation I couldn't bypass in time.
+>
+> ✅ To ensure you can still view and test the full working version of the app, I deployed it live on Netlify here:
+> **🔗 [https://sidequest.boltbreaker.site](https://sidequest.boltbreaker.site)**
+>
+> This version includes:
+>
+> * Fully functional Supabase integration
+> * Working subscriptions
+> * Progression features
+> * All UI and logic exactly as intended
+>
+> Thank you for understanding — I wanted to preserve the Bolt project as proof of origin, while still ensuring a smooth judging experience.
+
+---
+
 ![screenshot]
 ![sidequest-cover-desktop-1920x1080](https://github.com/user-attachments/assets/050a8f6d-c026-4253-9a17-e5529626c67f)
 
