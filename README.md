@@ -111,8 +111,6 @@ I'm now planning to launch SideQuest publicly and develop additional AI-powered 
 
 > ⚔️ *Level up your life. One side quest at a time.*
 
-Absolutely, Noxolo — here’s a polished, judge-friendly paragraph you can paste into your **Devpost submission**, **README**, or **video description**:
-
 ---
 
 ### ✅ Note to the judges about my bolt.new URL error they might encounter
@@ -123,7 +121,7 @@ Absolutely, Noxolo — here’s a polished, judge-friendly paragraph you can pas
 > 🛠️ I attempted to hardcode the Supabase credentials inside the Bolt project, but due to Bolt's automatic resets and environment management, the changes get **overwritten after saving**. This caused a major technical limitation I couldn't bypass in time.
 >
 > ✅ To ensure you can still view and test the full working version of the app, I deployed it live on Netlify here:
-> **🔗 [https://sidequest.boltbreaker.site](https://sidequest.boltbreaker.site)**
+> **🔗 [https://sidequest.boltbreaker.site](https://sidequest.boltbreaker.site)** or you can just attempt to fix the problem by clicking "Attempt fix"
 >
 > This version includes:
 >
